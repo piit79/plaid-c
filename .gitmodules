@@ -1,0 +1,3 @@
+[submodule "pcb/SMKJP_kicad_components"]
+	path = pcb/SMKJP_kicad_components
+	url = https://github.com/hsgw/SMKJP_kicad_components.git
