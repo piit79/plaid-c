@@ -1,3 +1,6 @@
 [submodule "pcb/SMKJP_kicad_components"]
 	path = pcb/SMKJP_kicad_components
 	url = https://github.com/hsgw/SMKJP_kicad_components.git
+[submodule "pcb/42keebs-kicad"]
+	path = pcb/42keebs-kicad
+	url = https://github.com/piit79/42keebs-kicad.git

@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "SMKJP")(type "KiCad")(uri "${KIPRJMOD}/SMKJP_kicad_components/SMKJP.pretty")(options "")(descr ""))
   (lib (name "plaid_silk")(type "KiCad")(uri "${KIPRJMOD}/plaid_silk.pretty")(options "")(descr ""))
+  (lib (name "42keebs")(type "KiCad")(uri "${KIPRJMOD}/42keebs-kicad/footprints")(options "")(descr ""))
 )
