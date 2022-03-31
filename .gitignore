@@ -27,3 +27,4 @@ pcb/plate.dwg
 *.net
 pcb/plaid_plate.pro
 pcb/plaid_plate.kicad_pcb
+*-backups/
