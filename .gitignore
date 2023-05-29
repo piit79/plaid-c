@@ -5,7 +5,6 @@ pcb/plaid.step
 pcb/plaid-cache.lib
 pcb/dxf/
 pcb/dxf_2/
-pcb/gerber/
 pcb/gerber_bottom/
 pcb/plaid.xml
 *.kicad_pcb-bak
@@ -27,3 +26,4 @@ pcb/plate.dwg
 *.net
 pcb/plaid_plate.pro
 pcb/plaid_plate.kicad_pcb
+*-backups/
